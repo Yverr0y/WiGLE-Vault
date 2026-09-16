@@ -1,17 +1,38 @@
+<div align="center">
+
+<img width="100%" alt="WIGLE VAULT" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:5C227A&height=220&section=header&text=WIGLE%20VAULT&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cross-platform%20%7C%20Python%20%7C%20WiGLE%20%7C%20Backup&descSize=16&descAlignY=58"/>
+
+`Cross-platform` [`Python`](https://www.python.org/) [`WiGLE`](https://wigle.net/) `Backup` - Download all your WiGLE wardriving data in one command. Simple Python tool for backing up your WiFi survey history.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5C227A&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=Download+all+your+WiGLE+wardriving+data+in+one+command%3BCross-platform+%2F+Python+%2F+WiGLE+%2F+Backup)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-WiGLE--Vault-5C227A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/WiGLE-Vault)
+[![Format](https://img.shields.io/badge/Format-Python-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/WiGLE-Vault/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/WiGLE-Vault?style=flat-square&color=5C227A)](https://github.com/Ringmast4r/WiGLE-Vault/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/WiGLE-Vault?style=flat-square&color=5C227A)](https://github.com/Ringmast4r/WiGLE-Vault/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/WiGLE-Vault?style=flat-square&color=5C227A)](https://github.com/Ringmast4r/WiGLE-Vault)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/WiGLE-Vault?style=flat-square&color=5C227A)](https://github.com/Ringmast4r/WiGLE-Vault/commits/main)
+
+</div>
+
+---
+
 # WiGLE Vault 🛰️
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-![GitHub stars](https://img.shields.io/github/stars/Ringmast4r/WiGLE-Vault?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ringmast4r/WiGLE-Vault?style=social)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
 
 Download ALL your WiGLE wardriving data in one command.
 
 ---
 
-## 🎯 Quick Start (Choose Your Method)
+<a id="-quick-start-choose-your-method"></a>
+## `> quick_start_choose_your_method`
 
 ### Option A: Pre-Built Executables (No Coding Required!)
 
@@ -47,7 +68,8 @@ Download ALL your WiGLE wardriving data in one command.
 
 ### Option B: Python Script (For Developers)
 
-## How to Use (3 Steps)
+<a id="how-to-use-3-steps"></a>
+## `> how_to_use_3_steps`
 
 ### Step 1: Run the Script
 
@@ -87,14 +109,16 @@ python wigle_vault.py YOUR_TOKEN_HERE
 
 ---
 
-## What You Need
+<a id="what-you-need"></a>
+## `> what_you_need`
 
 - Python 3.6 or newer
 - `requests` library (install: `pip install requests`)
 
 ---
 
-## What It Does
+<a id="what-it-does"></a>
+## `> what_it_does`
 
 - Downloads every CSV file you ever uploaded to WiGLE
 - Handles files of ANY size (even 100+ MB cross-country logs)
@@ -105,7 +129,8 @@ python wigle_vault.py YOUR_TOKEN_HERE
 
 ---
 
-## Example Output
+<a id="example-output"></a>
+## `> example_output`
 
 ```
 ============================================================
@@ -138,14 +163,16 @@ python wigle_vault.py YOUR_TOKEN_HERE
 
 ---
 
-## Requirements
+<a id="requirements"></a>
+## `> requirements`
 
 - **Python 3.6+**
 - **requests library** (install with `pip install requests`)
 
 ---
 
-## Use Cases
+<a id="use-cases"></a>
+## `> use_cases`
 
 ### 📊 Data Analysis
 Import your CSVs into tools like:
@@ -168,7 +195,8 @@ Import your CSVs into tools like:
 
 ---
 
-## Installation
+<a id="installation"></a>
+## `> installation`
 
 ### Option 1: Direct Download
 ```bash
@@ -192,7 +220,8 @@ python wigle_vault.py <your-token>
 
 ---
 
-## Common Questions
+<a id="common-questions"></a>
+## `> common_questions`
 
 **Is this safe?**
 Yes - uses official WiGLE API, read-only access, open source code.
@@ -215,7 +244,8 @@ YES! Don't share it, don't commit it to git.
 
 ---
 
-## Problems?
+<a id="problems"></a>
+## `> problems`
 
 **401 Error** - Wrong token. Copy "Encoded for use" (not plain token).
 
@@ -223,8 +253,17 @@ YES! Don't share it, don't commit it to git.
 
 ---
 
-## License
+<a id="license"></a>
+## `> license`
 
 MIT License
 
 Created by Ringmast4r for the wardriving community.
+
+---
+
+<div align="center">
+
+<img width="100%" alt="WIGLE VAULT footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C227A,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20BACKUP&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
